@@ -2,17 +2,17 @@
 /* bold */
 @font-face {
     font-family: 'YSDisplayBold';
-    src: url('/fonts/YSDisplayBold.ttf');
+    src: url('./../fonts/YSDisplayBold.ttf');
 }
 /* light */
 @font-face {
     font-family: 'YSTextLight';
-    src: url('/fonts/YSTextLight.ttf');
+    src: url('./../fonts/YSTextLight.ttf');
 }
 /* medium */
 @font-face {
     font-family: 'YSTextMedium';
-    src: url('/fonts/YSTextMedium.ttf');
+    src: url('./../fonts/YSTextMedium.ttf');
 }
 /* color */
 :root {
